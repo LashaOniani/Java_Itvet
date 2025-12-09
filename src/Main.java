@@ -1,5 +1,5 @@
 import Week1.jw11;
-
+import Week1.jw12;
 import java.util.Scanner;
 
 public class Main {
@@ -15,7 +15,9 @@ public class Main {
         String inputTxt = input.nextLine();
 
         if (inputTxt.equals("j-w-1-1")) {
-            jw11 age = new jw11();
+            jw11 jw11 = new jw11();
+        }else if (inputTxt.equals("j-w-1-2")) {
+            jw12 jw12 = new jw12();
         }
     }
 }
