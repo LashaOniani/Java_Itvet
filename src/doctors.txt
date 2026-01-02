@@ -1,0 +1,12 @@
+SURGEON
+1
+Nika
+200
+THERAPIST
+2
+Mariam
+80
+DENTIST
+3
+Giorgi
+120
